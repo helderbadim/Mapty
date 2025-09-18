@@ -2,7 +2,7 @@
 
 An interactive **map-based fitness tracker** built using **vanilla JavaScript** and the **Leaflet.js** mapping library. This app allows users to log their running and cycling workouts by clicking on a map and entering details like distance, duration, and cadence/elevation.
 
-> 🚨 Educational project only. No backend or real-time database.
+> 🚨 No backend or real-time database.
 
 ---
 
